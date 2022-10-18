@@ -2,7 +2,7 @@
     package="com.example.contest">
     <uses-permission android:name="android.permission.INTERNET" />
    <application
-        android:label="Contest Calender"
+        android:label="Contest Calendar"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
